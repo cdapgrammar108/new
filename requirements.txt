@@ -1,0 +1,12 @@
+flask~=1.1.2
+gunicorn
+torch
+pytorch_pretrained_bert
+keras~=2.3.1
+pytorch_pretrained_bert
+hunspell
+spacy~=2.2.4
+requests~=2.23.0
+numpy~=1.18.4
+hunspell
+Werkzeug==0.16.1
